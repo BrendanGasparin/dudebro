@@ -67,3 +67,7 @@ Generated exports and release builds are not tracked in source control.
 ## CHANGELOG
 
 See [CHANGELOG.md](./CHANGELOG.md) for release history.  
+
+## License
+
+[Dude Bro License](./LICENSE).  
